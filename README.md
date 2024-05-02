@@ -1,5 +1,5 @@
-# RunBird3D
- 3D Platform Oyunu.
+# WarAgainstRabbits
+ Tavşanlara karşı 3D savaş oyunu
 <h1 align="center">Hi 👋, I'm Kadir</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
